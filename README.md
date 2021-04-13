@@ -1,2 +1,2 @@
-# going_deep_with_deepnote
+# Going Deep with Deepnote
 An initial dive into Deepnote
